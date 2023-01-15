@@ -35,5 +35,5 @@ def git_status(git_dir):
         print("Error: ", e)
 
 
-#Replace pth with directory in which to assess git status
+#Replace path with directory in which to assess git status
 git_status("PATH")
