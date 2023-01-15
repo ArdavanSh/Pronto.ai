@@ -13,5 +13,6 @@ Additonally we can run the code in any python IDE. (libraries mentioned need to 
 ------------------------------------------------------
 
 Example output:
+
 ![Alt text](Output.png)
 
