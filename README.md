@@ -1,4 +1,4 @@
-# Instructions
+# Instructions - Python
 
 Make sure the "GitPython" and "pytz" libraries are installed. (ex: run "pip install gitpython" in the command line to install GitPython)
 
